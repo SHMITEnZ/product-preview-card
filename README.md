@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SHMITEnZ/product-preview-card](https://github.com/SHMITEnZ/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://shmitenz.github.io/product-preview-card/](https://shmitenz.github.io/product-preview-card/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned about the HTML picture tag which allows to change the imaged displayed according to different screen sizes
+I learned more about responsive images and about the HTML picture tag which allows to change the imaged displayed according to different screen sizes
 
 ### Useful resources
 
